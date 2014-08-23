@@ -1,6 +1,6 @@
 import serial
 import time
-import numpy
+#import numpy
 import sys
 
 # Is the serial port available ?
